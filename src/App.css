@@ -38,10 +38,6 @@ h1 {
   flex-wrap: wrap;
 }
 
-#age > button{
-  margin: 0 1em 0 1em;
-}
-
 #textInput{
   margin: 0 0.5em 0 0;
 }
@@ -82,21 +78,6 @@ h1 {
   align-items: center;
 }
 
-.logo {
-  border-radius: 50%;
-  background-color: rgb(250, 250, 250);
-  width: 4em;
-  height: 4em;
-  pointer-events: none;
-  margin: 1em 1em 1em 1em;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .logo {
-    animation: App-logo-spin infinite 1.5s linear;
-  }
-}
-
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -111,7 +92,6 @@ h1 {
 .App-link {
   color: #61dafb;
 }
-
 
 .todo{
   animation: addTaskTodo .5s forwards;
