@@ -11,7 +11,7 @@ A Task Management Tool made to quickly order your agenda throughout your day, wh
 
 ## Next Updates :
 
-* Saving your agenda of your past days
+* Saving agenda from your previous days
 * Deleting a Task
 * Schedule Tasks for a specific day or hour 
 * Notification Feature
