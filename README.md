@@ -16,5 +16,9 @@ A Task Management Tool made to quickly order your agenda throughout your day, wh
 * Schedule Tasks for a specific day or hour 
 * Notification Feature
 
+## Project Preview :
+
+<img src="./preview.png">
+
 
 
